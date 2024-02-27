@@ -1,0 +1,7 @@
+{
+    "require": {
+        "laravel/passport": "^10.4",
+        "laravel/socialite": "^5.11",
+        "intervention/image":"2.4"
+    }
+}
